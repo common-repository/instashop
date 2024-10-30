@@ -1,0 +1,15 @@
+BODY.toplevel_page_socialshop.auto-fold #wpcontent {
+    padding-left: 0;
+}
+
+BODY.toplevel_page_socialshop #wpbody-content {
+    padding-bottom: 0;
+}
+
+BODY.toplevel_page_socialshop #wpfooter {
+    display: none;
+}
+
+BODY.toplevel_page_socialshop .update-nag {
+    display: none !important;
+}
